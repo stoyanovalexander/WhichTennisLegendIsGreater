@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhichTennisLegendIsBigger", "WhichTennisLegendIsBigger\WhichTennisLegendIsBigger.csproj", "{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "Parser\Parser.csproj", "{DE4E6599-28CC-4D80-B6C2-89A43B103515}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{99ECD435-9F50-440E-8F36-97FBF36CF800}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|ARM.Build.0 = Debug|ARM
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|ARM.Deploy.0 = Debug|ARM
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|x64.ActiveCfg = Debug|x64
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|x64.Build.0 = Debug|x64
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|x64.Deploy.0 = Debug|x64
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|x86.ActiveCfg = Debug|x86
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|x86.Build.0 = Debug|x86
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Debug|x86.Deploy.0 = Debug|x86
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|ARM.ActiveCfg = Release|ARM
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|ARM.Build.0 = Release|ARM
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|ARM.Deploy.0 = Release|ARM
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|x64.ActiveCfg = Release|x64
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|x64.Build.0 = Release|x64
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|x64.Deploy.0 = Release|x64
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|x86.ActiveCfg = Release|x86
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|x86.Build.0 = Release|x86
+		{2A96BFA8-7FB6-4950-BFF5-13F9C27CE466}.Release|x86.Deploy.0 = Release|x86
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Release|ARM.ActiveCfg = Release|Any CPU
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Release|x64.ActiveCfg = Release|Any CPU
+		{DE4E6599-28CC-4D80-B6C2-89A43B103515}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
